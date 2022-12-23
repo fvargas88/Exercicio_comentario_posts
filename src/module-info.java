@@ -1,0 +1,2 @@
+module Comentarios_postagens {
+}
